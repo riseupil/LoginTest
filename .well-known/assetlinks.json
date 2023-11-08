@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.riseup.android.uk.debug",
+    "sha256_cert_fingerprints":
+    ["E7:21:AC:B4:0C:0F:B9:AD:DD:93:B9:2E:74:D7:72:12:3B:AC:00:2B:39:F8:63:5B:7B:25:68:FF:43:A2:38:75"]
+  }
+}]
